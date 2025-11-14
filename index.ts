@@ -1,1 +1,0 @@
-import './opencss.scss';
